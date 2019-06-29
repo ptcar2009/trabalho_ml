@@ -1,0 +1,4 @@
+**/data/ascii/**/*
+**/data/ascii/*
+**/data/words/**/*
+.ipy*
